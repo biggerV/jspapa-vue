@@ -4,7 +4,11 @@
 
 ## 立即体验
 
-[https://www.jspapa.com/vue/#/home](https://www.jspapa.com/vue/#/home)  
+[http://www.jspapa.com/vue/#/home](http://www.jspapa.com/vue/#/home)  
+
+有问题请加我微信，入群解决
+
+![扫码加我微信，拉你入前端群](https://github.com/biggerV/webpack4-lesson/blob/master/wechat-qrcode.jpg?raw=true)
 
 ## Build Setup
 
